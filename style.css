@@ -1,0 +1,32 @@
+.box {
+  position: relative;
+  transition: 0.5s;
+}
+.box .box1 {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.box .box2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 136, 0);
+  position: absolute;
+  top: 0px;
+  left: 150px;
+}
+.box .box3 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(147, 61, 124);
+  position: absolute;
+  top: 0px;
+  left: 300px;
+}
+.box .box-down {
+  position: absolute;
+  top: 500px;
+}/*# sourceMappingURL=style.css.map */
